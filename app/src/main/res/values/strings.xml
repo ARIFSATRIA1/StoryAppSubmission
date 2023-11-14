@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">StoryAppSubmission</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ceritakan Pengalaman Mu Selama Belajar Di Dicoding!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah Siap Untuk Membagi Ceritamu ?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="loginimage">loginImage</string>
+    <string name="masukan_email_anda">Masukan Email Anda</string>
+    <string name="masukan_password_anda">Masukan Password Anda!</string>
+    <string name="masukan_nama_anda">Masukan Nama Anda</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="story_desc">ini adalah text description </string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="Descriptions"> Deskripsi</string>
+    <string name="add">add</string>
+    <string name="register">Register</string>
+    <string name="yeah">Yeah</string>
+    <string name="succes_storry">Anda Berhasil Membuat Story!</string>
+    <string name="createdAcc">Anda Berhasil Membuat Account</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="error">Password Tidak Boleh Kurang Dari 8 Karakter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Map</string>
+    <string name="retry">Retry</string>
+    <string name="location">Location</string>
+</resources>
